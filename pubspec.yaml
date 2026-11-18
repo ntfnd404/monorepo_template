@@ -1,0 +1,16 @@
+name: monorepo_template
+description: "Workspace root"
+
+environment:
+  sdk: ^3.14.0
+
+dependencies:
+  material_ui: ^1.11.1
+
+dev_dependencies:
+
+  flutter_lints: ^6.0.0
+
+workspace:
+  - apps/admin_app
+  - apps/client_app
