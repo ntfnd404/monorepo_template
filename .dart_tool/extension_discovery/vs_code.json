@@ -1,1 +1,0 @@
-{"version":2,"entries":[{"package":"monorepo_template","rootUri":"../","packageUri":"lib/"},{"package":"admin_app","rootUri":"../apps/admin_app/","packageUri":"lib/"},{"package":"client_app","rootUri":"../apps/client_app/","packageUri":"lib/"}]}
